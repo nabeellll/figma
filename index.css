@@ -1,0 +1,38 @@
+.collapse{
+    padding-left: 200px;
+}
+.heading{
+    font-family:inherit;
+    font-size: 50px;
+}
+.btn{
+    width: 120px;
+    height: 45px;
+}
+.mentalimg{
+    width: 370px;
+}
+.mental_health{
+    color: white;
+}
+.cards_1 img{
+    width: 60px;
+}
+.info{
+    color: white;
+}
+.enter_button{
+    width: 200px;
+    height: 45px;
+}
+@media (max-width:570px) {
+    .figma_img1{
+        width: 69%;
+    }
+    .mentalimg{
+        width: 69%;
+    }
+}
+.big_img{
+    width: 1000px;
+}
